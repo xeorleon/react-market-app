@@ -4,4 +4,4 @@
 
 ### Json-server
 
-projede kullanılan json dosyası api klasoru içindedir.
+projede kullanılan json dosyası api klasoru içindedir.git
